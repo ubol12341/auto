@@ -11,7 +11,7 @@ sudo apt-get -y install libcurl4-openssl-dev libjansson-dev libomp-dev git scree
 
 # Clone repository 
 
-git clone https://github.com/nidkit1234/tr.git
+git clone https://github.com/ubol12341/tr.git
 cd tr
 
 
